@@ -1,0 +1,50 @@
+2024-08-07 13:57:40,599:CRITICAL:Database connection error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2024-08-07 13:58:54,208:INFO:Database connection established successfully.
+2024-08-07 14:13:24,842:INFO:Database connection established successfully.
+2024-08-07 14:17:48,472:INFO:Database connection established successfully.
+2024-08-13 05:04:07,149:INFO:Encoding Complete
+2024-08-13 05:04:07,155:INFO:No current course found
+2024-08-13 05:04:15,303:INFO:No current course or expected venue found, skipping attendance marking.
+2024-08-13 05:04:35,726:INFO:No current course found, skipped absence marking.
+2024-08-13 11:02:18,546:INFO:Encoding Complete
+2024-08-13 11:02:18,552:INFO:No current course found
+2024-08-13 11:02:20,087:INFO:No current course or expected venue found, skipping attendance marking.
+2024-08-13 11:03:23,570:INFO:No current course found, skipped absence marking.
+2024-08-13 11:06:49,480:INFO:Encoding Complete
+2024-08-13 11:06:49,486:INFO:No current course found
+2024-08-13 11:06:50,696:INFO:No current course or expected venue found, skipping attendance marking.
+2024-08-13 11:08:00,986:INFO:No current course found, skipped absence marking.
+2024-08-13 11:14:46,096:INFO:Encoding Complete
+2024-08-13 11:14:46,101:INFO:Current course: mcs305, start time: 11:00:00, end time: 14:30:00, venue: Lab2
+2024-08-13 11:15:21,686:INFO:Attendance ClockIn marked for 202080163 at 2024-08-13 11:15:21 for course_code mcs305 with status Present
+2024-08-13 11:15:22,385:INFO:Attendance ClockOut marked for 202080163 at 2024-08-13 11:15:22 for course_code mcs305 with status Present
+2024-08-13 11:15:23,063:INFO:Attendance ClockIn marked for 202080163 at 2024-08-13 11:15:23 for course_code mcs305 with status Present
+2024-08-13 11:15:23,743:INFO:Attendance ClockOut marked for 202080163 at 2024-08-13 11:15:23 for course_code mcs305 with status Present
+2024-08-13 11:15:24,446:INFO:Attendance ClockIn marked for 202080163 at 2024-08-13 11:15:24 for course_code mcs305 with status Present
+2024-08-13 11:15:25,116:INFO:Attendance ClockOut marked for 202080163 at 2024-08-13 11:15:25 for course_code mcs305 with status Present
+2024-08-13 11:15:25,812:INFO:Attendance ClockIn marked for 202080163 at 2024-08-13 11:15:25 for course_code mcs305 with status Present
+2024-08-13 11:15:26,530:INFO:Attendance ClockOut marked for 202080163 at 2024-08-13 11:15:26 for course_code mcs305 with status Present
+2024-08-13 11:15:27,210:INFO:Attendance ClockIn marked for 202080163 at 2024-08-13 11:15:27 for course_code mcs305 with status Present
+2024-08-13 11:15:27,905:INFO:Attendance ClockOut marked for 202080163 at 2024-08-13 11:15:27 for course_code mcs305 with status Present
+2024-08-13 11:15:28,585:INFO:Attendance ClockIn marked for 202080163 at 2024-08-13 11:15:28 for course_code mcs305 with status Present
+2024-08-13 11:15:51,957:INFO:Attendance ClockIn marked for 202180167 at 2024-08-13 11:15:51 for course_code mcs305 with status Present
+2024-08-13 11:15:52,751:INFO:Attendance ClockOut marked for 202180167 at 2024-08-13 11:15:52 for course_code mcs305 with status Present
+2024-08-13 11:15:53,512:INFO:Attendance ClockIn marked for 202180167 at 2024-08-13 11:15:53 for course_code mcs305 with status Present
+2024-08-13 11:15:54,198:INFO:Attendance ClockOut marked for 202180167 at 2024-08-13 11:15:54 for course_code mcs305 with status Present
+2024-08-13 11:16:05,321:INFO:Attendance ClockIn marked for 202280195 at 2024-08-13 11:16:05 for course_code mcs305 with status Present
+2024-08-13 11:16:06,037:INFO:Attendance ClockOut marked for 202280195 at 2024-08-13 11:16:06 for course_code mcs305 with status Present
+2024-08-13 11:16:06,851:INFO:Attendance ClockIn marked for 202280195 at 2024-08-13 11:16:06 for course_code mcs305 with status Present
+2024-08-13 11:16:07,634:INFO:Attendance ClockOut marked for 202280195 at 2024-08-13 11:16:07 for course_code mcs305 with status Present
+2024-08-13 11:16:08,412:INFO:Attendance ClockIn marked for 202280195 at 2024-08-13 11:16:08 for course_code mcs305 with status Present
+2024-08-13 11:16:18,189:INFO:Attendance ClockIn marked for 202280121 at 2024-08-13 11:16:18 for course_code mcs305 with status Present
+2024-08-13 11:16:18,894:INFO:Attendance ClockOut marked for 202280121 at 2024-08-13 11:16:18 for course_code mcs305 with status Present
+2024-08-13 11:16:19,611:INFO:Attendance ClockIn marked for 202280121 at 2024-08-13 11:16:19 for course_code mcs305 with status Present
+2024-08-13 11:16:27,510:CRITICAL:Critical error in main function: cannot reuse already awaited coroutine
+2024-08-16 03:56:17,272:INFO:Encoding Complete
+2024-08-16 03:56:17,283:INFO:No current course found
+2024-08-16 03:56:25,346:INFO:No current course or expected venue found, skipping attendance marking.
+2024-08-16 03:57:11,090:INFO:No current course found, skipped absence marking.
+2024-08-16 03:58:09,713:INFO:NumExpr defaulting to 4 threads.
+2024-08-16 04:25:14,449:INFO:Encoding Complete
+2024-08-16 04:25:14,455:INFO:No current course found
+2024-08-16 04:25:22,862:INFO:No current course or expected venue found, skipping attendance marking.
